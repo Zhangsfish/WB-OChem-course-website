@@ -1,19 +1,23 @@
-instructors:
-  - name: Albus Dumbledore
-    profile_pic: /_images/pp/dumbledore.jpg
-    webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
-  - name: Minerva McGonagall
-    profile_pic: /_images/pp/mcgonagall.jpg
+课程主讲:
+  - name: 王博
+    profile_pic: /_images/pp/wb.jpg
+    webpage: https://supramol.jlu.edu.cn/info/1030/3509.htm
+#  - name: Minerva McGonagall
+#    profile_pic: /_images/pp/mcgonagall.jpg
 
-teaching_assistants:
-  - name: Harry Potter
-    profile_pic: /_images/pp/potter.jpg
-    webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
+课程助教:
+  - name: 夏启东
+    profile_pic: /_images/pp/xqd.jpg
+    # webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
 
-  - name: Hermione Granger
-    profile_pic: /_images/pp/granger.jpg
-    webpage: https://en.wikipedia.org/wiki/Hermione_Granger
+  - name: 张茗雨
+    profile_pic: /_images/pp/zmy.jpg
+   # webpage: https://en.wikipedia.org/wiki/Hermione_Granger
 
-  - name: Ron Weasley
-    profile_pic: /_images/pp/weasley.jpg
-    webpage: https://en.wikipedia.org/wiki/Ron_Weasley
+  - name: 张海波
+    profile_pic: /_images/pp/zhb.jpg
+   # webpage: https://en.wikipedia.org/wiki/Ron_Weasley
+
+  - name: 张朔
+    profile_pic: /_images/pp/zs.jpg
+   # webpage: https://en.wikipedia.org/wiki/Ron_Weasley
