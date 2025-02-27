@@ -1,26 +1,27 @@
 # Site settings
-course_name: 有机化学
+course_name: ORGANIC CHEMISTRY
 course_description: "
 《有机化学》课程由王博教授主讲，聚焦天然产物全合成、药物化学及自动化合成技术等前沿领域，致力于将理论知识与实际应用相结合。课程内容涵盖有机化学核心知识体系，包括分子结构与性质、反应机理、合成策略设计及结构解析技术，特别融入连续流合成、自动化合成等工业界新技术。通过中英文双语授课、课堂讨论、文献阅读和口头报告等多元形式，培养学生解决复杂化学问题的能力。
 
 教学安排为2023年第一学期每周一（1-2节）和周三（3-4节），成绩评定注重过程性考核（平时作业、随堂测验、口头报告占比超50%），期末考试不超过50%。课程提供习题辅导和合成案例研讨，配套必读与选读材料深化学习。
 
 王博教授现任教于唐教庆楼A421，研究方向涵盖天然产物合成与化学生物学，联系方式为bwang_chem@jlu.edu.cn。本课程适合化学及相关专业学生修读，助力掌握从基础理论到工业合成的完整知识链。"
-course_semester: "2025春季学期"
+course_semester: "Spring 2025"
 
 baseurl: "/WB-OChem-course-website" # the subpath of your site, e.g. /blog/
 url: "http://Zhangsfish.github.io/" # the base hostname & protocol for your site
 
-schoolname: "吉林大学唐敖庆班"
+schoolname: "TAQ, Jilin University"
 schoolurl: "https://chem.jlu.edu.cn/"
-# twitter_username: username 
+twitter_username: "TagZhangs"
 
 address: |
-    吉林大学前卫南区唐敖庆楼A421
-    中国吉林省长春市前进大街2699号
-    邮箱：bwang_chem@jlu.edu.cn
-    邮编：130012
-    
+    Room A421, Tang Aoqing Building
+    Qianwei South Campus, Jilin University
+    2699 Qianjin Street
+    Changchun, Jilin Province
+    China
+    Email: bwang_chem@jlu.edu.cn
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
